@@ -1,0 +1,22 @@
+```python
+import time
+
+lyrics = [
+    "You know it's true",
+    "That I miss you",
+    "You know it's true",
+    "",
+    "So what if I call",
+    "And you pick up the phone?",
+    "And I use this holiday",
+    "To make my way to your ghost",
+    "",
+    "Or what if you're lonely",
+    "And you know I am too?",
+    "And I get the chance",
+]
+
+for line in lyrics:
+    print(line)
+    time.sleep(1.5)
+```
